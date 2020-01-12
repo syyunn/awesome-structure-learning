@@ -20,5 +20,8 @@ errors in the independence tests, especially in the case of high-order CI tests 
 
 ## Contraint Based Approach
 
+Learning Bayesian networks by hill climbing: Efficient methods based on progressive restriction of the neighborhood
+https://www.researchgate.net/publication/225378901_Learning_Bayesian_networks_by_hill_climbing_Efficient_methods_based_on_progressive_restriction_of_the_neighborhood
+
 # Interpretation of trained deep neural network within a bayesian belief network framework
 Deep Learning: A Bayesian Perspective written by Poulson
