@@ -21,3 +21,4 @@ errors in the independence tests, especially in the case of high-order CI tests 
 ## Contraint Based Approach
 
 # Interpretation of trained deep neural network within a bayesian belief network framework
+Deep Learning: A Bayesian Perspective written by Poulson
